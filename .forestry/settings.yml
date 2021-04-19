@@ -23,8 +23,6 @@ sections:
   label: Authors
   create: all
   match: "**/_index.md"
-  templates:
-  - author
 - type: directory
   path: config/_default
   label: Config
